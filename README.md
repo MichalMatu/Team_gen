@@ -16,6 +16,7 @@ This project is a command-line application that dynamically generates a HTML web
 * Bootstrap
 * HTML
 * CSS
+* Jest - JavaScript testing framework
 
 ## Installation
 
